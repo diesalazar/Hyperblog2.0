@@ -1,3 +1,4 @@
 This is my history
-Im Diego have 26 years old and born in Colombia
+Im Diego have 25 years old and born in Colombia
 And today, we will speaked about me story
+Im learning about Git and GitHub
